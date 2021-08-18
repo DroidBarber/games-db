@@ -1,4 +1,4 @@
-This app was coded by DroidBarber for for learning purposes like how to use Angular CLI, create components, make http calls, implement http interceptors, make services and also how to set up routes and pass data between the components, use pipes and various Angular directives like ngFor, ngIf, and more.
+This app was coded by DroidBarber for learning purposes like how to use Angular CLI, create components, make http calls, implement http interceptors, make services and also how to set up routes and pass data between components, use pipes and various Angular directives like ngFor, ngIf, and more.
 
 # VideoGameDb
 
