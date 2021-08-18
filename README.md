@@ -1,6 +1,6 @@
 This app was coded by DroidBarber for for learning purposes like how to use Angular CLI, create components, make http calls, implement http interceptors, make services and also how to set up routes and pass data between the components, use pipes and various Angular directives like ngFor, ngIf, and more.
 
-#VideoGameDb
+# VideoGameDb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
